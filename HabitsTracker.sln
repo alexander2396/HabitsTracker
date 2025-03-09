@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitsTracker", "HabitsTracker\HabitsTracker.csproj", "{0CDD8862-BF04-4593-A7F3-DCE278C0CDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitsTracker.Persistence", "HabitsTracker.Persistence\HabitsTracker.Persistence.csproj", "{BE74BAEB-7022-A251-DC1B-808EC89E7A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDD8862-BF04-4593-A7F3-DCE278C0CDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDD8862-BF04-4593-A7F3-DCE278C0CDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDD8862-BF04-4593-A7F3-DCE278C0CDD5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0CDD8862-BF04-4593-A7F3-DCE278C0CDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDD8862-BF04-4593-A7F3-DCE278C0CDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE74BAEB-7022-A251-DC1B-808EC89E7A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE74BAEB-7022-A251-DC1B-808EC89E7A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE74BAEB-7022-A251-DC1B-808EC89E7A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE74BAEB-7022-A251-DC1B-808EC89E7A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAB7A5A-A262-4F31-8A84-8A107EC5A818}
+	EndGlobalSection
+EndGlobal
